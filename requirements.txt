@@ -5,6 +5,6 @@ pandas==1.4.3
 plotly==5.10.0
 Sastrawi==1.0.1
 streamlit==1.12.2
-tensorflow==3.7.4
+tensorflow==2.6.0
 wordcloud==1.8.2.2
 numpy==1.23.2
